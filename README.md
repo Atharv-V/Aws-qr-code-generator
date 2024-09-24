@@ -1,1 +1,1 @@
-QR codde generator with AWS
+QR code generator with AWS
